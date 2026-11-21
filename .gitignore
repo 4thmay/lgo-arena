@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.db
+.env
+.aa_token
+game/build/web-cache/
+.pytest_cache/
